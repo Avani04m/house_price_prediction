@@ -20,7 +20,7 @@ This project focuses on predicting house prices in Bengaluru using machine learn
 - scikit-learn
 ---
 ## Dataset
-- Source: [Kaggle insurance dataset](https://www.kaggle.com/datasets/amitabhajoy/bengaluru-house-price-data)
+- Source: [Kaggle house price dataset](https://www.kaggle.com/datasets/amitabhajoy/bengaluru-house-price-data)
 - License: [CC0: Public Domain](https://creativecommons.org/publicdomain/zero/1.0/)
 - **Note:** Only dataset is taken from Kaggle . All code and analysis is done by me in this project.
 ---
