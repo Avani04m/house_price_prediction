@@ -26,5 +26,5 @@ This project focuses on predicting house prices in Bengaluru using machine learn
 ---
 ## Files
 - housing.ipynb - Main Jupyter Notebook
-- housing.csv - Dataset for analysis
+- bengaluru_house_prices.csv - Dataset for analysis
 
